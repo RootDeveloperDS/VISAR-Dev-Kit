@@ -3,7 +3,7 @@ import { Toaster } from "@/components/ui/toaster"
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'GeminiDevKit',
+  title: 'VisarDevKit',
   description: 'AI-powered tools to supercharge your development workflow.',
 };
 

@@ -45,7 +45,7 @@ export default function PageContent() {
           <div className="inline-flex items-center gap-4">
             <Code className="w-12 h-12 text-primary text-glow" />
             <h1 className="text-4xl sm:text-5xl font-headline font-bold text-glow">
-              GeminiDevKit
+              VisarDevKit
             </h1>
           </div>
           <p className="text-muted-foreground mt-2 font-body">
