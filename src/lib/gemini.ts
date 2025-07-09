@@ -6,7 +6,7 @@ export async function getApiKey(userKey?: string | null): Promise<string> {
         return userKey;
     }
     
-    const envKey = process.env.GOOGLE_GENAI_API_KEY;
+    const envKey = process.env.GEMINI_API_KEY;
     if (envKey) {
         console.log("Using Gemini API key from environment variables.");
         return envKey;
