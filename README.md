@@ -6,6 +6,7 @@
 
 **7 intelligent code tools, one sleek interface — supercharge your development workflow with Google Gemini.**
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=nextdotjs)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3-38bdf8?logo=tailwindcss)](https://tailwindcss.com/)
@@ -201,4 +202,6 @@ Contributions are welcome! Please open an issue or submit a pull request with yo
 
 ## 📄 License
 
-This project is private. All rights reserved.
+This project is open source and licensed under the **[MIT License](./LICENSE)**.
+
+You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this software. See the [LICENSE](./LICENSE) file for full details.
